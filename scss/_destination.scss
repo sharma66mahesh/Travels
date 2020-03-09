@@ -46,7 +46,7 @@
                 @include transition(.3s);
                 a{
                     display: inline-block;
-                    background:#1EC6B6;
+                    background:#041b53;
                     font-size: 12px;
                     border-radius: 30px;
                     font-weight: 400;
@@ -63,10 +63,10 @@
             @include transform(translateY(-10px));
             .content{
                 p{
-                    color: #FF4A52;
+                    color: #ff0b17;
                     @include transition(.3s);
                     a{
-                        background: #FF4A52;
+                        background: #ff0b17;
                         color: #fff;
                     }
                 }
