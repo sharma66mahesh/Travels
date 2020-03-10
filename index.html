@@ -38,6 +38,7 @@
     <!-- header-start -->
     <header>
         <div class="header-area ">
+            <!-- <div style='position:absolute; top: 2px; width: 100%; color: red;' class="align-items-center"><h6 class="text-center">Website under maintenance!!</h6></div> -->
             <div id="sticky-header" class="main-header-area">
                 <div class="container-fluid">
                     <div class="header_bottom_border">
@@ -868,6 +869,20 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
       </div>
     </div>
   </div>
+
+
+  <!-- -----------------Business Card Modal---------- -->
+  <div class="modal hide fade pb-4 pt-4" id="cardModal">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content" style='position:relative'>
+                <button type="button" class="close" data-dismiss="modal" style='position:absolute; top:-25px; right:-25px;'>
+                    <i class='fa fa-window-close-o' style='color:red'></i></button>
+            <img src="img/about/2.png" style='max-height:110%; max-width: 150%;' alt=''>
+      </div>
+    </div>
+  </div>
+
+
     <!-- link that opens popup -->
 <!--     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -876,7 +891,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src=" https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"> </script> -->
     <!-- JS here -->
     <script src="js/vendor/modernizr-3.5.0.min.js"></script>
-    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script type='text/javascript' src="js/vendor/jquery-1.12.4.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
@@ -914,6 +929,13 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
          }
         });
     </script>
+
+<script type="text/javascript">
+    $(window).on('load',function(){
+        console.log("e");
+        $('#cardModal').modal('show');
+    });
+  </script>
 </body>
 
 </html>
