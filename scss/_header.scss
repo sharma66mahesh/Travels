@@ -101,7 +101,7 @@
                     //     margin-right: 15px;
                     // }
                     a{
-                        color: #041b53;
+                        color: #16347d;
                         font-size: 16px;
                         text-transform: capitalize;
                         font-weight: 400;
@@ -111,7 +111,7 @@
                         position: relative;
                         text-transform:capitalize;
                         &:hover{
-                            color: #041b53;
+                            color: #16347d;
                         }
                         @media #{$mid_device} {
                             // padding: 41px 0px 10px 0px;
@@ -181,7 +181,7 @@
                                 position: inherit;
                                 @include transition(.3s);
                                 display: block;
-                                color: #041b53;
+                                color: #16347d;
                                 font-size: 14px;
                                 &::before{
                                     display: none;
@@ -305,7 +305,7 @@
             }
             p{
                 font-size: 16px;
-                color: #041b53;
+                color: #16347d;
                 margin-bottom: 0;
                 font-weight: 400;
                 @media #{$large_device}{

@@ -220,7 +220,7 @@ h3 {
 .overlay::before {
   position: absolute;
   content: "";
-  background-color: #041b53;
+  background-color: #16347d;
   top: 0;
   left: 0;
   width: 100%;
@@ -478,7 +478,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_btn.scss */
 .boxed-btn {
-  background: #041b53;
+  background: #16347d;
   color: #fff;
   display: inline-block;
   padding: 14px 44px;
@@ -486,7 +486,7 @@ h3 {
   font-size: 14px;
   font-weight: 400;
   border: 0;
-  border: 1px solid #041b53;
+  border: 1px solid #16347d;
   text-align: center;
   color: #fff !important;
   text-transform: uppercase;
@@ -512,7 +512,7 @@ h3 {
 
 /* line 28, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_btn.scss */
 .boxed-btn3 {
-  background: rgb(4, 27, 83);
+  background: #16347d;
   color: #fff;
   display: inline-block;
   padding: 18px 41px;
@@ -572,7 +572,7 @@ h3 {
 
 /* line 67, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_btn.scss */
 .boxed-btn4:hover {
-  background: #041b53;
+  background: #16347d;
   color: #fff !important;
 }
 
@@ -590,7 +590,7 @@ h3 {
 .section_title h3 {
   font-size: 38px;
   font-weight: 400;
-  color: #041b53;
+  color: #16347d;
   position: relative;
   z-index: 0;
   padding-bottom: 7px;
@@ -989,7 +989,7 @@ h3 {
 
 /* line 103, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a {
-  color: #041b53;
+  color: #16347d;
   font-size: 16px;
   text-transform: capitalize;
   font-weight: 400;
@@ -1002,7 +1002,7 @@ h3 {
 
 /* line 113, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a:hover {
-  color: #041b53;
+  color: #16347d;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
@@ -1070,7 +1070,7 @@ h3 {
   -o-transition: 0.3s;
   transition: 0.3s;
   display: block;
-  color: #041b53;
+  color: #16347d;
   font-size: 14px;
 }
 
@@ -1223,7 +1223,7 @@ h3 {
 /* line 306, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
 .header-area .social_wrap .number p {
   font-size: 16px;
-  color: #041b53;
+  color: #16347d;
   margin-bottom: 0;
   font-weight: 400;
 }
@@ -1243,7 +1243,7 @@ h3 {
 }
 
 .red{
-  color: rgb(4, 27, 83)
+  color: #16347d
 }
 
 /* line 324, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_header.scss */
@@ -1468,7 +1468,7 @@ h3 {
 .about_story .story_heading h3 {
   font-size: 38px;
   font-weight: 400;
-  color: #041b53;
+  color: #16347d;
   margin-bottom: 60px;
 }
 
@@ -1523,7 +1523,7 @@ h3 {
 /* line 44, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_about.scss */
 .about_story .story_thumb .thumb img {
   width: 100%;
-  height: fit-content;
+  height: 250px;
 }
 
 /* line 2, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_counter.scss */
@@ -1656,7 +1656,7 @@ h3 {
 
 /* line 14, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_testmonial.scss */
 .testimonial_area .single_testmonial p {
-  color: #041b53;
+  color: #16347d;
   font-weight: 400;
   font-size: 18px;
   line-height: 32px;
@@ -1686,7 +1686,7 @@ h3 {
   font-family: "Flaticon";
   text-align: center;
   line-height: 50px;
-  background: #041b53;
+  background: #16347d;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -1747,7 +1747,7 @@ h3 {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  background: rgb(4, 27, 83);
+  background: #16347d;
   position: relative;
   z-index: 0;
 }
@@ -2095,7 +2095,7 @@ h3 {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #041b53;
+  background: #16347d;
   opacity: .1;
   z-index: -1;
   content: '';
@@ -2516,7 +2516,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_where_to_go.scss */
 .where_togo_area {
-  background: #041b53;
+  background: #16347d;
   padding: 50px 0;
 }
 
@@ -2720,7 +2720,7 @@ h3 {
 
 /* line 14, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
 .popular_destination_area .single_destination:before {
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#041b53+0,040e27+100&0+0,0.7+100 */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#16347d+0,040e27+100&0+0,0.7+100 */
   background: -moz-linear-gradient(top, rgba(4, 14, 39, 0) 0%, rgba(4, 14, 39, 0.7) 100%);
   /* FF3.6-15 */
   background: -webkit-linear-gradient(top, rgba(4, 14, 39, 0) 0%, rgba(4, 14, 39, 0.7) 100%);
@@ -2770,7 +2770,7 @@ h3 {
 /* line 47, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
 .popular_destination_area .single_destination .content p a {
   display: inline-block;
-  background: #041b53;
+  background: #16347d;
   font-size: 12px;
   border-radius: 30px;
   font-weight: 400;
@@ -3115,7 +3115,7 @@ h3 {
 /* line 21, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_popular_place.scss */
 .popular_places_area .single_place .thumb .prise {
   position: absolute;
-  background: #041b53;
+  background: #16347d;
   padding: 7px 18px 4px 18px;
   display: inline-block;
   top: 20px;
@@ -3140,7 +3140,7 @@ h3 {
 .popular_places_area .single_place .place_info h3 {
   font-size: 22px;
   font-weight: 400;
-  color: #041b53;
+  color: #16347d;
   margin-bottom: 0;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
@@ -3294,7 +3294,7 @@ h3 {
 
 /* line 157, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_popular_place.scss */
 .filter_result_wrap .range_slider_wrap span.range {
-  color: #041b53;
+  color: #16347d;
   font-size: 16px;
   font-weight: 400;
   display: block;
@@ -3400,7 +3400,7 @@ h3 {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  background: #041b53;
+  background: #16347d;
   display: inline-block;
   color: #fff;
   font-size: 17px;
@@ -3428,7 +3428,7 @@ h3 {
   display: block;
   width: 100%;
   height: 100%;
-  background: #041b53;
+  background: #16347d;
   border-radius: 50%;
   animation: pulse-border 1500ms ease-out infinite;
   left: 0;
@@ -3489,7 +3489,7 @@ h3 {
 
 /* line 104, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_video.scss */
 .recent_trip_area .single_trip .info a h3 {
-  color: #041b53;
+  color: #16347d;
   font-size: 22px;
   font-weight: 400;
   margin-bottom: 0;
@@ -3527,7 +3527,7 @@ h3 {
 .travel_variation_area .single_travel h3 {
   font-size: 22px;
   font-weight: 400;
-  color: #041b53;
+  color: #16347d;
   margin-bottom: 10px;
   margin-top: 41px;
 }
